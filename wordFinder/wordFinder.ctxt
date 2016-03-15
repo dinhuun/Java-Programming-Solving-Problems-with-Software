@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ findWisdom()
+comment1.params=fr
+comment1.target=edu.duke.StorageResource\ storeUniqueWords(edu.duke.FileResource)
+comment2.params=
+comment2.target=void\ testgetUniqueWords()
+numComments=3
